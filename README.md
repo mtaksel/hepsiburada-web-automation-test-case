@@ -58,6 +58,11 @@ This project automates various tasks on the Hepsiburada website. It leverages Se
 
 You can configure the script by modifying the `globalconstants.py` file. Here, you can set parameters such as the base URL, search keywords, and other relevant settings.
 
+### How to view HTML Report
+* Go to root directory of your project and open `report.html`
+
+![Hepsiburada Web Automation Test Result](./images/test_report.png?raw=true "Hepsiburada Web Automation HTML Test Report")
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:

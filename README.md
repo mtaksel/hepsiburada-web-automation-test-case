@@ -61,7 +61,7 @@ You can configure the script by modifying the `globalconstants.py` file. Here, y
 ### How to view HTML Report
 * Go to root directory of your project and open `report.html`
 
-![Hepsiburada Web Automation Test Result](.images\test_reports.png?raw=true "Hepsiburada Web Automation HTML Test Report")
+![Hepsiburada Web Automation Test Result](./images/test_reports.png?raw=true "Hepsiburada Web Automation HTML Test Report")
 
 ## Contributing
 
